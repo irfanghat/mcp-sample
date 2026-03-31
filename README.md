@@ -2,7 +2,7 @@
 
 ### Preview
 
-[ImagePreview](https://github.com/irfanghat/mcp-sample/blob/main/previews/image.png?raw=true)
+![ImagePreview](https://github.com/irfanghat/mcp-sample/blob/main/previews/image.png?raw=true)
 
 ## Setup (Linux)
 
